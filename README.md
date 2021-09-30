@@ -14,4 +14,4 @@ I, am Josh, am a web, mobile app and UI / UX developer/designer. I love learning
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jeso001)  
 
-![GitHub metrics](https://metrics.lecoq.io/jeso001)  
+  
