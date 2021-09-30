@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Josh
 ## Design and Development
-I, I'm Josh, am a web, mobile app and UI / UX developer/designer. I love learning new frameworks, languages and technology. I also love wireframing, designing website with wordpress, IOT, Embedded Systems development and programming Micro Controllers
+I, am Josh, am a web, mobile app and UI / UX developer/designer. I love learning new frameworks, languages and technology. I also love wireframing, designing website with wordpress, IOT, Embedded Systems development and programming Micro Controllers
 
 ## Skills: 
  - 🔭 MONGO DB 
