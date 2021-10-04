@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Josh
+# Hi there 👋, I'm Josh
 ## Design and Development
 I, am Josh. Am a web, mobile and UI / UX developer/designer. I love learning new frameworks, languages and technology. I also love wireframing, designing website with wordpress, IOT, Embedded Systems development and programming Micro Controllers
 
