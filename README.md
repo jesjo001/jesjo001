@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Josh!](https://github.com/jesjo001/)
 ## Design and Development
-I, am Josh. I'm a graduate with BSc in Computer Science 🎓. I'm currently a web, mobile and UI / UX developer/designer💡. I love learning new frameworks, languages and technology. I also love wireframing, designing website with wordpress, IOT, Embedded Systems development and programming Micro Controllers. I occasionally write windows aplications in C# 
+I, am Josh. I'm a graduate with BSc in Computer Science 🎓. I'm currently a web, mobile and UI / UX designer💡. I love learning new frameworks, languages and technology. I also love wireframing, designing website and developing applications. I also have interested in IOT, Embedded Systems development/programming Micro Controllers and developing system application. I occasionally write windows aplications in C# 
 
 Like My Work?
 
