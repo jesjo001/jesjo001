@@ -78,7 +78,7 @@ Like My Work?
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+<!--   <summary><b>☄️ Github Streaks</b></summary> -->
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jesjo001&hide_border=true" />
