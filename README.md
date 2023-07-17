@@ -87,6 +87,7 @@ Like My Work?
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jeso001)  
+[<img src='https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png' alt='Youtube' height='40'>](https://www.youtube.com/@itech931/videos) 
 
 
 #
