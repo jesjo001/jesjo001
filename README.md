@@ -13,7 +13,7 @@ Like My Work?
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, Next JS, Meteor etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🚀 &nbsp; I’m currently learning Dev Ops.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/jesjo001).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/jesjo001/jesjo001/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
